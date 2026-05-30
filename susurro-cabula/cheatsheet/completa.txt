@@ -1,0 +1,259 @@
+SUSURRO CABULA — VERSÃO COMPLETA
+Roland AIRA Compact · T-8 + S-1 + P-6 · VMX300 · Alesis
+freq : quiet · signal : alive
+
+═══════════════════════════════
+0. AS TRÊS MÁQUINAS
+═══════════════════════════════
+
+T-8 = PULSO    mestre do tempo · drums · bassline
+S-1 = AR       synth · filtro · respiração
+P-6 = MEMÓRIA  samples · fragmentos · pássaros · maracas
+
+T-8 caminha. P-6 lembra. S-1 respira.
+
+═══════════════════════════════
+1. TRÊS COISAS DIFERENTES
+═══════════════════════════════
+
+não confundir:
+
+ÁUDIO    = o som que sai pelos phones
+SYNC     = o tempo/relógio entre máquinas
+CONTROLO = os botões de cada máquina (só mexem nela)
+
+cada uma tem o seu cabo e o seu caminho.
+
+═══════════════════════════════
+2. CABOS — REGRA DE OURO
+═══════════════════════════════
+
+preto TRS (stereo)  = ÁUDIO  → a voz
+colorido TS (mono)  = SYNC   → o passo
+
+nunca usar colorido TS para áudio stereo.
+
+preto leva a voz. colorido leva o passo.
+
+═══════════════════════════════
+3. CADEIA DE ÁUDIO — PRETOS TRS
+═══════════════════════════════
+
+P-6 MIX OUT → T-8 MIX IN
+T-8 MIX OUT → S-1 MIX IN
+S-1 MIX OUT → (3.5mm→RCA) → VMX300 canal LINE → Alesis/phones
+
+cadeia: P-6 › T-8 › S-1 › VMX300 › Alesis
+
+═══════════════════════════════
+4. CADEIA DE TEMPO — COLORIDOS TS
+═══════════════════════════════
+
+T-8 SYNC OUT → S-1 SYNC IN
+S-1 SYNC OUT → P-6 SYNC IN
+
+T-8 = mestre · S-1 = segue · P-6 = segue
+
+normal: T-8 mostra BPM. S-1/P-6 podem mostrar traços.
+se acompanham o tempo, está certo.
+
+═══════════════════════════════
+5. POSIÇÃO NA MESA
+═══════════════════════════════
+
+T-8   S-1   P-6
+
+T-8 manda o tempo.
+S-1 recebe sync e fica à mão para FREQ/RESO.
+P-6 fica livre para lançar memórias.
+
+═══════════════════════════════
+6. ANTES DE LIGAR
+═══════════════════════════════
+
+tudo em volume baixo:
+P-6 LEVEL · T-8 VOLUME · S-1 VOLUME · VMX canal · VMX master · Alesis
+
+VMX300 em LINE. nunca PHONO para Roland/Mac/iMac.
+subir só depois de ouvir.
+
+═══════════════════════════════
+7. T-8 — BOTÕES (nomes reais)
+═══════════════════════════════
+
+MASTER:      VOLUME
+BASS DRUM:   DECAY · TUNE · LEVEL
+SNARE DRUM:  DECAY · TUNE · LEVEL
+TOM:         TUNE · LEVEL
+HAND CLAP:   LEVEL
+OPEN HIHAT:  DECAY · LEVEL
+CLOSED HIHAT:LEVEL
+BASS:        DECAY · PITCH · LEVEL · CUTOFF · RESO · ENV MOD
+EFX:         DELAY · REVERB
+
+═══════════════════════════════
+8. T-8 — POSIÇÃO INICIAL (Pattern 1)
+═══════════════════════════════
+
+BD:    DECAY curto-médio · TUNE 12h · LEVEL meio
+SNARE: DECAY curto-médio · TUNE 12h · LEVEL meio
+TOM:   TUNE 12h · LEVEL baixo-médio
+CLAP:  LEVEL baixo-médio
+OH:    DECAY curto-médio · LEVEL baixo-médio
+CH:    LEVEL baixo-médio
+BASS:  DECAY curto-médio · PITCH 12h · LEVEL meio-baixo
+       CUTOFF meio fechado · RESO baixo · ENV MOD pouco
+EFX:   DELAY pouco · REVERB pouco
+
+a T-8 deve fazer andar.
+níveis baixos, sem saturar.
+
+═══════════════════════════════
+9. S-1 — BOTÕES (nomes reais)
+═══════════════════════════════
+
+LFO:        RATE
+WAVE FORM:  ENV · RANGE · LFO
+OSCILLATOR: TIE · 1 · SUB · NOISE
+FILTER:     FREQ · RESO · ENV · LFO
+AMP:        ATTACK · DECAY · SUSTAIN · RELEASE
+EFX:        DELAY · REVERB
+MASTER:     VOLUME
+
+═══════════════════════════════
+10. S-1 — POSIÇÃO INICIAL
+═══════════════════════════════
+
+FILTER: FREQ meio fechado · RESO baixo/médio-baixo · ENV pouco · LFO pouco
+AMP:    ATTACK baixo (ritmo) / médio (textura)
+        DECAY médio · SUSTAIN médio · RELEASE médio-baixo
+OSC:    SUB pouco · NOISE pouco
+EFX:    DELAY pouco · REVERB pouco
+
+FREQ abre a janela.
+RESO faz a pedra cantar.
+ATTACK = como nasce. DECAY = quanto fica.
+SUSTAIN = quanto segura. RELEASE = como desaparece.
+DELAY/REVERB = onde vive.
+
+ATENÇÃO: FREQ/RESO só mexem no som da S-1.
+não filtram o áudio da P-6/T-8 que entra por MIX IN.
+
+═══════════════════════════════
+11. P-6 — BOTÕES (nomes reais)
+═══════════════════════════════
+
+PAD:     1 · 2 · 3 · 4 · 5 · 6
+BANK:    A/E · B/F · C/G · D/H
+EDIT:    PITCH · START · END · LEVEL
+EFFECTS: CTRL1 · CTRL2 · CTRL3 · LOOPER · PITCH · DELAY · FILTER · SCATTER · MFX
+FUNÇÕES: SAMPLING · DELETE · LO-FI · GATE · LOOP · KYBD · GRANULAR
+
+═══════════════════════════════
+12. P-6 — POSIÇÃO INICIAL
+═══════════════════════════════
+
+sample curto · LEVEL baixo · PITCH normal
+START limpo · END sem cortar demais
+
+efeitos: CTRL pouco · DELAY pouco · FILTER pouco · MFX pouco
+LO-FI off/pouco · GATE conforme · LOOP só quando faz sentido
+
+material: cabasa · maracas · pássaros · metal curto
+adufe seco · rádio/interferência · textura 1–5s
+
+P-6 = samples curtos, intenção alta.
+não é arquivo. é bolso de memórias.
+
+═══════════════════════════════
+13. TESTE RÁPIDO — 3 MIN
+═══════════════════════════════
+
+1. S-1 on → ouvir o som dela
+2. T-8 START (Pattern 1) → confirmar pulso
+3. P-6 → 1 sample curto → confirmar que entra por cima
+4. T-8 START → S-1/P-6 acompanham? sync ok.
+5. ruído? baixar master · desligar P-6 USB · testar P-6 em bateria
+   confirmar: pretos = áudio · coloridos = sync
+
+═══════════════════════════════
+14. SE HOUVER DISTORÇÃO
+═══════════════════════════════
+
+baixar na fonte primeiro:
+P-6 LEVEL › T-8 VOLUME › S-1 VOLUME
+depois VMX gain do canal.
+nunca resolver tudo no master. corrigir na fonte.
+
+═══════════════════════════════
+15. SE CHIA NOS PHONES
+═══════════════════════════════
+
+verificar: cabo mal encaixado · adaptador 3.5/RCA
+TS mono usado em áudio por engano · gain alto na VMX
+USB a criar ruído · canal aberto sem fonte
+
+teste: P-6 só em bateria, sem USB, sem sync.
+se ficar limpo → o ruído vinha de cabo/USB/ligação.
+
+═══════════════════════════════
+16. GRAVAR SAMPLE LIMPO (P-6)
+═══════════════════════════════
+
+P-6 isolada: só bateria · sem MIX OUT · sem SYNC · sem USB
+
+SAMPLING → banco/pad vazio → maracas a 20–30 cm
+SAMPLING (grava) → ~2s → STOP/SAMPLING (para)
+ouvir → DELETE se não presta
+
+voltar à cadeia:
+P-6 MIX OUT → T-8 MIX IN
+S-1 SYNC OUT → P-6 SYNC IN
+
+═══════════════════════════════
+17. IMPORTAR SAMPLE (P-6)
+═══════════════════════════════
+
+usar P-6 SampleTool.
+ideais: WAV curto · one-shot · shaker · cabasa · rimshot · snap · perc orgânico · chord curto
+evitar: loops grandes · kicks pesados · basslines longas · bibliotecas enormes
+
+menos sample. mais intenção.
+
+═══════════════════════════════
+18. BANCOS DA P-6
+═══════════════════════════════
+
+A/E: 1× = A · 2× = E
+B/F: 1× = B · 2× = F
+C/G: 1× = C · 2× = G
+D/H: 1× = D · 2× = H
+
+cada banco: pads 1–6
+total: 8 bancos × 6 pads = 48 samples
+
+═══════════════════════════════
+19. SESSÃO 2 BOTÕES
+═══════════════════════════════
+
+T-8 START · Pattern 1
+S-1 → só FREQ + RESO
+P-6 → 1 sample de vez em quando
+
+puntz puntz ... chhh ... freq abre ... reso canta
+não tocar tudo. um botão de cada vez.
+
+═══════════════════════════════
+20. MANTRA
+═══════════════════════════════
+
+não mexer para mostrar. mexer para escutar.
+
+as japonesas não chegaram para gritar.
+chegaram para escutar contigo.
+
+T-8 caminha · P-6 lembra · S-1 respira.
+
+freq : quiet
+signal : alive
+susurrosdamarzia
