@@ -1,11 +1,13 @@
 SUSURRO CABULA — ON THE GO
-Roland AIRA Compact · T-8 + S-1 + P-6
+Roland AIRA Compact · T-8 + S-1 + P-6 + J-6 + E-4
 freq : quiet · signal : alive
 
-── AS TRÊS ─────────────────────
-T-8 = PULSO    mestre do tempo · drums · bass
+── AS CINCO ────────────────────
+T-8 = PULSO    tempo · drums · bass
 S-1 = AR       synth · filtro · respiração
 P-6 = MEMÓRIA  samples curtos
+J-6 = ACORDES  harmonia · JUNO-60 · 82
+E-4 = VOZ      canto · auto-pitch · harmonia · vocoder
 
 ── TRÊS COISAS, NÃO DUAS ───────
 ÁUDIO    = o som
@@ -15,36 +17,37 @@ CONTROLO = os botões de cada máquina (só mexem nela)
 ── CABOS ───────────────────────
 preto TRS   = áudio  → a voz
 colorido TS = sync   → o passo
+XLR→1/4"    = mic → entra na E-4
 nunca trocar.
 
-── ÁUDIO ───────────────────────
-P-6 OUT → T-8 IN
-T-8 OUT → S-1 IN
-S-1 OUT → VMX300 (LINE) → Alesis
-cadeia: P-6 › T-8 › S-1 › mixer › phones
+── ÁUDIO (uma só saída) ────────
+P-6 OUT → T-8 IN → S-1 IN → J-6 IN → E-4 IN
+E-4 OUT → (3.5mm→RCA) → Xone:92 (LINE) → amp/colunas
+cadeia: P-6 › T-8 › S-1 › J-6 › E-4 › Xone › colunas
+(VMX300 = mixer antigo, agora na parede)
 
 ── TEMPO ───────────────────────
-T-8 OUT → S-1 IN
-S-1 OUT → P-6 IN
-T-8 manda. S-1 segue. P-6 segue.
+T-8 → S-1 → P-6 → J-6 → E-4
+T-8 manda. as outras seguem. 4 coloridos.
 
 ── MESA ────────────────────────
-T-8   S-1   P-6
+T-8   S-1   P-6   J-6   E-4
 
 ── ANTES ───────────────────────
 tudo em volume baixo.
-VMX em LINE (nunca PHONO).
+Xone:92 em LINE (nunca PHONO).
 subir só depois de ouvir.
 
 ── ARRANQUE 30s ────────────────
 1. S-1 on → ouvir o som dela
 2. T-8 START (Pattern 1) → confirmar pulso
 3. P-6 → 1 sample curto por cima
-4. T-8 START → S-1/P-6 acompanham? sync ok.
+4. J-6 → 1 acorde · E-4 → voz ao mic
+5. T-8 START → todas acompanham? sync ok.
 
 ── SE DISTORCE ─────────────────
 baixar na fonte: P-6 LEVEL › T-8 VOL › S-1 VOL
-depois VMX gain do canal.
+depois Xone gain do canal.
 nunca corrigir no master.
 
 ── SE CHIA NOS PHONES ──────────
@@ -57,10 +60,23 @@ teste: P-6 só em bateria, sem USB, sem sync.
 T-8 START · Pattern 1
 S-1 → só FREQ + RESO
 P-6 → 1 sample de vez em quando
+J-6 → 1 acorde que sustente
+E-4 → uma frase cantada por cima
 um botão de cada vez.
+
+── VOZ (E-4) ───────────────────
+mic SM58 → XLR→1/4" → E-4 MIC IN
+auto-pitch/vocoder = substituem a voz
+harmonia/delay = somam por cima
+a E-4 é o portal: entra teu, sai transformado.
+
+── ACORDES (J-6) ───────────────
+CHORD SET → tocas → soa certo (sem teoria)
+sustenta por baixo. não grita.
 
 ── MANTRA ──────────────────────
 não mexer para mostrar. mexer para escutar.
-T-8 caminha · P-6 lembra · S-1 respira.
+T-8 caminha · P-6 lembra · S-1 respira
+J-6 harmoniza · E-4 canta
 freq : quiet · signal : alive
 susurrosdamarzia

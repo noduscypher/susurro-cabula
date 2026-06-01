@@ -1,16 +1,19 @@
 SUSURRO CABULA — VERSÃO COMPLETA
-Roland AIRA Compact · T-8 + S-1 + P-6 · VMX300 · Alesis
+Roland AIRA Compact · T-8 + S-1 + P-6 + J-6 + E-4 · Xone:92 · PA ativa
 freq : quiet · signal : alive
 
 ═══════════════════════════════
-0. AS TRÊS MÁQUINAS
+0. AS CINCO MÁQUINAS
 ═══════════════════════════════
 
 T-8 = PULSO    mestre do tempo · drums · bassline
 S-1 = AR       synth · filtro · respiração
 P-6 = MEMÓRIA  samples · fragmentos · pássaros · maracas
+J-6 = ACORDES  harmonia · JUNO-60 · a alma de 82
+E-4 = VOZ      o teu canto · auto-pitch · harmonia · vocoder
 
 T-8 caminha. P-6 lembra. S-1 respira.
+J-6 harmoniza. E-4 canta.
 
 ═══════════════════════════════
 1. TRÊS COISAS DIFERENTES
@@ -28,22 +31,34 @@ cada uma tem o seu cabo e o seu caminho.
 2. CABOS — REGRA DE OURO
 ═══════════════════════════════
 
-preto TRS (stereo)  = ÁUDIO  → a voz
-colorido TS (mono)  = SYNC   → o passo
+preto 3.5mm TRS    = ÁUDIO  → a voz das máquinas
+colorido TS (mono) = SYNC   → o passo
+XLR→1/4" (SMP6BK)  = o microfone → entra na E-4
 
 nunca usar colorido TS para áudio stereo.
 
-preto leva a voz. colorido leva o passo.
+preto leva a voz. colorido leva o passo. XLR leva o canto.
 
 ═══════════════════════════════
-3. CADEIA DE ÁUDIO — PRETOS TRS
+3. CADEIA DE ÁUDIO — 3.5mm TRS, UMA SÓ SAÍDA
 ═══════════════════════════════
 
 P-6 MIX OUT → T-8 MIX IN
 T-8 MIX OUT → S-1 MIX IN
-S-1 MIX OUT → (3.5mm→RCA) → VMX300 canal LINE → Alesis/phones
+S-1 MIX OUT → J-6 MIX IN
+J-6 MIX OUT → E-4 MIX IN
+E-4 MIX OUT → (3.5mm→RCA · YRK2030) → Xone:92 canal LINE → amp/colunas
 
-cadeia: P-6 › T-8 › S-1 › VMX300 › Alesis
+cadeia: P-6 › T-8 › S-1 › J-6 › E-4 › Xone:92 › amp › colunas
+
+a E-4 fica em último: junta a voz já tratada à soma dos instrumentos,
+e tudo sai num só cabo para um canal de linha do Xone.
+
+NOTA: a VMX300 era o mixer antigo (agora na parede, peça de museu).
+o caminho é o mesmo — troca só o destino: Xone:92 em vez de VMX300.
+
+OPÇÃO: a voz da E-4 pode sair sozinha (2º YRK2030) para um canal
+só dela no Xone — assim tens fader e EQ da voz à parte da música.
 
 ═══════════════════════════════
 4. CADEIA DE TEMPO — COLORIDOS TS
@@ -51,30 +66,36 @@ cadeia: P-6 › T-8 › S-1 › VMX300 › Alesis
 
 T-8 SYNC OUT → S-1 SYNC IN
 S-1 SYNC OUT → P-6 SYNC IN
+P-6 SYNC OUT → J-6 SYNC IN
+J-6 SYNC OUT → E-4 SYNC IN
 
-T-8 = mestre · S-1 = segue · P-6 = segue
+T-8 = mestre · S-1 · P-6 · J-6 · E-4 = seguem
+5 máquinas = 4 ligações de sync. os 4 coloridos que já tens.
 
-normal: T-8 mostra BPM. S-1/P-6 podem mostrar traços.
+normal: T-8 mostra BPM. as outras podem mostrar traços.
 se acompanham o tempo, está certo.
 
 ═══════════════════════════════
 5. POSIÇÃO NA MESA
 ═══════════════════════════════
 
-T-8   S-1   P-6
+T-8   S-1   P-6   J-6   E-4
 
 T-8 manda o tempo.
-S-1 recebe sync e fica à mão para FREQ/RESO.
-P-6 fica livre para lançar memórias.
+S-1 à mão para FREQ/RESO.
+P-6 livre para lançar memórias.
+J-6 à mão para acordes e arpejo.
+E-4 com o microfone, para a voz.
 
 ═══════════════════════════════
 6. ANTES DE LIGAR
 ═══════════════════════════════
 
 tudo em volume baixo:
-P-6 LEVEL · T-8 VOLUME · S-1 VOLUME · VMX canal · VMX master · Alesis
+P-6 · T-8 · S-1 · J-6 · E-4 · canal Xone · master Xone · amp
 
-VMX300 em LINE. nunca PHONO para Roland/Mac/iMac.
+Xone:92 em LINE. nunca PHONO para Roland/Mac/iMac.
+(PHONO é só para o gira-discos.)
 subir só depois de ouvir.
 
 ═══════════════════════════════
@@ -166,38 +187,101 @@ P-6 = samples curtos, intenção alta.
 não é arquivo. é bolso de memórias.
 
 ═══════════════════════════════
-13. TESTE RÁPIDO — 3 MIN
+13. J-6 — BOTÕES (confirmar no painel)
+═══════════════════════════════
+
+motor:     JUNO-60 (ACB) · 4 vozes · 64 sons
+CHORD SET: 100 conjuntos de acordes
+ARP:       arpejo · 9 estilos · variações
+FILTER:    CUTOFF · RESONANCE
+ENV / LFO
+DELAY · REVERB
+MASTER:    VOLUME
+TEMPO/VALUE
+
+(nomes exatos a confirmar quando a máquina chegar)
+
+═══════════════════════════════
+14. J-6 — POSIÇÃO INICIAL
+═══════════════════════════════
+
+CHORD SET: um conjunto que sirva o tema
+FILTER: CUTOFF meio · RESONANCE baixo
+ENV pouco · LFO pouco
+DELAY pouco · REVERB pouco
+LEVEL meio-baixo
+
+a J-6 não solta notas soltas — solta acordes.
+é a cola harmónica entre o pulso e a voz.
+sem teoria: chamas um acorde, tocas, e soa certo.
+
+═══════════════════════════════
+15. E-4 — BOTÕES (confirmar no painel)
+═══════════════════════════════
+
+MIC IN:  jack 1/4" (Hi-Z) · só microfone DINÂMICO
+         (não dá phantom — esquece condensador)
+VOZ:     AUTO PITCH · HARMONY · VOCODER
+KEY / SCALE
+EFFECTS · DELAY · REVERB
+MASTER:  VOLUME
+TEMPO/VALUE
+
+(nomes exatos a confirmar quando a máquina chegar)
+
+═══════════════════════════════
+16. E-4 — A VOZ (setup)
+═══════════════════════════════
+
+microfone: Shure SM58 (dinâmico, não precisa de alimentação)
+cabo: XLR→1/4" (SMP6BK) → entrada MIC da E-4
+
+dois tipos de efeito, duas lógicas:
+  SUBSTITUEM a voz (auto-pitch, vocoder) → ouves só a versão tratada
+  SOMAM por cima (harmonia, delay, reverb) → misturam com a tua voz
+
+caminho: voz → mic → E-4 (trata) → MIX OUT → cadeia → Xone
+
+seco direto no XLR do Xone (sem efeitos) → precisa de XLR→XLR
+(não está no kit — opção futura)
+
+a E-4 é o portal. o susurro entra teu e sai transformado.
+
+═══════════════════════════════
+17. TESTE RÁPIDO — 3 MIN
 ═══════════════════════════════
 
 1. S-1 on → ouvir o som dela
 2. T-8 START (Pattern 1) → confirmar pulso
 3. P-6 → 1 sample curto → confirmar que entra por cima
-4. T-8 START → S-1/P-6 acompanham? sync ok.
-5. ruído? baixar master · desligar P-6 USB · testar P-6 em bateria
+4. J-6 → CHORD SET → confirmar acordes por baixo
+5. E-4 → falar/cantar ao mic → confirmar voz tratada a sair
+6. T-8 START → S-1/P-6/J-6/E-4 acompanham? sync ok.
+7. ruído? baixar master · desligar USB · testar em bateria
    confirmar: pretos = áudio · coloridos = sync
 
 ═══════════════════════════════
-14. SE HOUVER DISTORÇÃO
+18. SE HOUVER DISTORÇÃO
 ═══════════════════════════════
 
 baixar na fonte primeiro:
-P-6 LEVEL › T-8 VOLUME › S-1 VOLUME
-depois VMX gain do canal.
+P-6 LEVEL › T-8 VOLUME › S-1 VOLUME › J-6 LEVEL › E-4 VOLUME
+depois Xone gain/trim do canal.
 nunca resolver tudo no master. corrigir na fonte.
 
 ═══════════════════════════════
-15. SE CHIA NOS PHONES
+19. SE CHIA NOS PHONES
 ═══════════════════════════════
 
 verificar: cabo mal encaixado · adaptador 3.5/RCA
-TS mono usado em áudio por engano · gain alto na VMX
+TS mono usado em áudio por engano · gain alto no Xone
 USB a criar ruído · canal aberto sem fonte
 
 teste: P-6 só em bateria, sem USB, sem sync.
 se ficar limpo → o ruído vinha de cabo/USB/ligação.
 
 ═══════════════════════════════
-16. GRAVAR SAMPLE LIMPO (P-6)
+20. GRAVAR SAMPLE LIMPO (P-6)
 ═══════════════════════════════
 
 P-6 isolada: só bateria · sem MIX OUT · sem SYNC · sem USB
@@ -211,7 +295,7 @@ P-6 MIX OUT → T-8 MIX IN
 S-1 SYNC OUT → P-6 SYNC IN
 
 ═══════════════════════════════
-17. IMPORTAR SAMPLE (P-6)
+21. IMPORTAR SAMPLE (P-6)
 ═══════════════════════════════
 
 usar P-6 SampleTool.
@@ -221,7 +305,7 @@ evitar: loops grandes · kicks pesados · basslines longas · bibliotecas enorme
 menos sample. mais intenção.
 
 ═══════════════════════════════
-18. BANCOS DA P-6
+22. BANCOS DA P-6
 ═══════════════════════════════
 
 A/E: 1× = A · 2× = E
@@ -233,18 +317,21 @@ cada banco: pads 1–6
 total: 8 bancos × 6 pads = 48 samples
 
 ═══════════════════════════════
-19. SESSÃO 2 BOTÕES
+23. SESSÃO 2 BOTÕES
 ═══════════════════════════════
 
 T-8 START · Pattern 1
 S-1 → só FREQ + RESO
 P-6 → 1 sample de vez em quando
+J-6 → 1 acorde que sustente
+E-4 → uma frase cantada por cima
 
 puntz puntz ... chhh ... freq abre ... reso canta
+acorde segura ... voz entra
 não tocar tudo. um botão de cada vez.
 
 ═══════════════════════════════
-20. MANTRA
+24. MANTRA
 ═══════════════════════════════
 
 não mexer para mostrar. mexer para escutar.
@@ -252,7 +339,8 @@ não mexer para mostrar. mexer para escutar.
 as japonesas não chegaram para gritar.
 chegaram para escutar contigo.
 
-T-8 caminha · P-6 lembra · S-1 respira.
+T-8 caminha · P-6 lembra · S-1 respira
+J-6 harmoniza · E-4 canta
 
 freq : quiet
 signal : alive

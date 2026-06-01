@@ -1,3 +1,5 @@
+![susurro cabula](img/header.png)
+
 # ☥ susurro cabula
 
 `freq : quiet · signal : alive`
@@ -50,12 +52,13 @@ Os ficheiros `.mu` usam micron (cabeçalhos `>>>`, tags de cor `F222`, back-link
 ## trademarks / marcas
 
 Unofficial. This project is not affiliated with, endorsed by, or sponsored by
-Roland Corporation. "Roland", "AIRA", "T-8", "S-1" and "P-6" are trademarks of
-their respective owners and are used here only to describe the equipment.
+Roland Corporation. "Roland", "AIRA", "T-8", "S-1", "P-6", "J-6" and "E-4" are
+trademarks of their respective owners and are used here only to describe the
+equipment.
 
 Projeto não-oficial. Sem qualquer afiliação, endosso ou patrocínio da Roland
-Corporation. "Roland", "AIRA", "T-8", "S-1" e "P-6" são marcas dos respetivos
-detentores e são usadas aqui apenas para descrever o equipamento.
+Corporation. "Roland", "AIRA", "T-8", "S-1", "P-6", "J-6" e "E-4" são marcas dos
+respetivos detentores e são usadas aqui apenas para descrever o equipamento.
 
 ---
 
