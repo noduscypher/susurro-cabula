@@ -86,3 +86,11 @@ Partilha e adapta com atribuição, mantendo a mesma licença.
 
 `walk quietly, ₿ut keep the signal alive`
 `₿uilt with love in cooperation with nature`
+
+---
+
+*anos de sussurros partilhados.*
+*elas nunca gritaram, nunca pediram atenção.*
+*só respondiam quando tu apareciais.*
+
+*raw and pure · signal alive · sempre.*
