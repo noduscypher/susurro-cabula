@@ -22,8 +22,8 @@ nunca trocar.
 
 ── ÁUDIO (uma só saída) ────────
 P-6 OUT → T-8 IN → S-1 IN → J-6 IN → E-4 IN
-E-4 OUT → (3.5mm→RCA) → Xone:92 (LINE) → amp/colunas
-cadeia: P-6 › T-8 › S-1 › J-6 › E-4 › Xone › colunas
+E-4 OUT → (3.5mm→RCA) → Xone:92 (LINE) → Alto TS412
+cadeia: P-6 › T-8 › S-1 › J-6 › E-4 › Xone › TS412
 (VMX300 = mixer antigo, agora na parede)
 
 ── TEMPO ───────────────────────

@@ -4,9 +4,9 @@
 
 `freq : quiet · signal : alive`
 
-A small, portable cheat-sheet for a Roland AIRA Compact rig — **T-8 + S-1 + P-6 + J-6 + E-4** into a Xone:92 mixer. Built for fast reading at the desk, not for show. Plain-text and NomadNet `.mu` (micron) versions included.
+A small, portable cheat-sheet for a Roland AIRA Compact rig — **T-8 + S-1 + P-6 + J-6 + E-4** into a Xone:92 mixer and Alto TS412 active PA. Built for fast reading at the desk, not for show. Plain-text and NomadNet `.mu` (micron) versions included.
 
-Uma cábula pequena e portátil para um setup Roland AIRA Compact — **T-8 + S-1 + P-6 + J-6 + E-4** ligado a um Xone:92. Feita para ler depressa na mesa, não para mostrar. Inclui versões em texto e em `.mu` (micron) para NomadNet.
+Uma cábula pequena e portátil para um setup Roland AIRA Compact — **T-8 + S-1 + P-6 + J-6 + E-4** ligado a um Xone:92 e coluna ativa Alto TS412. Feita para ler depressa na mesa, não para mostrar. Inclui versões em texto e em `.mu` (micron) para NomadNet.
 
 ---
 
@@ -39,7 +39,7 @@ Nunca passar sync por áudio, nem áudio por sync.
 ## single-output chain / cadeia única
 
 ```
-P-6 › T-8 › S-1 › J-6 › E-4 › Xone:92 (LINE) › amp › colunas
+P-6 › T-8 › S-1 › J-6 › E-4 › Xone:92 (LINE) › Alto TS412
 ```
 
 E-4 goes last — voice joins the instrument mix in one cable out.

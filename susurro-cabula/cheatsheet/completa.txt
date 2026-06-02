@@ -1,5 +1,5 @@
 SUSURRO CABULA — VERSÃO COMPLETA
-Roland AIRA Compact · T-8 + S-1 + P-6 + J-6 + E-4 · Xone:92 · PA ativa
+Roland AIRA Compact · T-8 + S-1 + P-6 + J-6 + E-4 · Xone:92 · Alto TS412
 freq : quiet · signal : alive
 
 ═══════════════════════════════
@@ -47,9 +47,9 @@ P-6 MIX OUT → T-8 MIX IN
 T-8 MIX OUT → S-1 MIX IN
 S-1 MIX OUT → J-6 MIX IN
 J-6 MIX OUT → E-4 MIX IN
-E-4 MIX OUT → (3.5mm→RCA · YRK2030) → Xone:92 canal LINE → amp/colunas
+E-4 MIX OUT → (3.5mm→RCA · YRK2030) → Xone:92 canal LINE → Alto TS412
 
-cadeia: P-6 › T-8 › S-1 › J-6 › E-4 › Xone:92 › amp › colunas
+cadeia: P-6 › T-8 › S-1 › J-6 › E-4 › Xone:92 › Alto TS412
 
 a E-4 fica em último: junta a voz já tratada à soma dos instrumentos,
 e tudo sai num só cabo para um canal de linha do Xone.
@@ -92,7 +92,7 @@ E-4 com o microfone, para a voz.
 ═══════════════════════════════
 
 tudo em volume baixo:
-P-6 · T-8 · S-1 · J-6 · E-4 · canal Xone · master Xone · amp
+P-6 · T-8 · S-1 · J-6 · E-4 · canal Xone · master Xone · Alto TS412
 
 Xone:92 em LINE. nunca PHONO para Roland/Mac/iMac.
 (PHONO é só para o gira-discos.)
