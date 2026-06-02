@@ -1,17 +1,20 @@
 >>>☥ SUSURRO CABULA
 
 `F222on the go · roland aira compact
-t-8 + s-1 + p-6 · vmx300 · alesis
+t-8 + s-1 + p-6 + j-6 + e-4 · xone:92 · alto ts412
 freq : quiet · signal : alive`f
 
 -
 
->the three
+>the five
 t-8 = pulse    time master · drums · bass
 s-1 = air      synth · filter · breath
 p-6 = memory   short samples
+j-6 = chord    harmony · juno-60 · the soul of '82
+e-4 = voice    singing · auto-pitch · harmony · vocoder
 
-`F222t-8 walks. p-6 remembers. s-1 breathes.`f
+`F222t-8 walks. p-6 remembers. s-1 breathes.
+j-6 harmonises. e-4 sings.`f
 
 -
 
@@ -25,6 +28,7 @@ control = each machine's own knobs (they move only it)
 >cables
 black trs (stereo)   = audio → the voice
 colored ts (mono)    = sync  → the step
+xlr→1/4" (smp6bk)   = mic   → into the e-4
 `F222never swap them.`f
 
 -
@@ -32,28 +36,32 @@ colored ts (mono)    = sync  → the step
 >audio chain · black trs
 p-6 mix out → t-8 mix in
 t-8 mix out → s-1 mix in
-s-1 mix out → (3.5→rca) → vmx300 line → alesis
+s-1 mix out → j-6 mix in
+j-6 mix out → e-4 mix in
+e-4 mix out → (3.5→rca) → xone:92 line → alto ts412
 
-`F222p-6 › t-8 › s-1 › mixer › phones`f
+`F222p-6 › t-8 › s-1 › j-6 › e-4 › xone › ts412`f
 
 -
 
 >time chain · colored ts
 t-8 sync out → s-1 sync in
 s-1 sync out → p-6 sync in
+p-6 sync out → j-6 sync in
+j-6 sync out → e-4 sync in
 
-`F222t-8 leads. s-1 follows. p-6 follows.`f
+`F222t-8 leads. the four follow.`f
 
 -
 
 >desk
-t-8   s-1   p-6
+t-8   s-1   p-6   j-6   e-4
 
 -
 
 >before power
 all volumes low.
-vmx on line — never phono.
+xone:92 on line — never phono.
 raise only after you hear.
 
 -
@@ -62,7 +70,9 @@ raise only after you hear.
 1 · s-1 on → hear its own sound
 2 · t-8 start (pattern 1) → confirm the pulse
 3 · p-6 → 1 short sample on top
-4 · t-8 start → s-1/p-6 follow? sync ok.
+4 · j-6 → chord set → one chord underneath
+5 · e-4 → voice at the mic → confirm treated output
+6 · t-8 start → all follow? sync ok.
 
 -
 
@@ -75,8 +85,8 @@ they do not filter the audio coming in via mix in.
 -
 
 >if it distorts
-lower at the source: p-6 level › t-8 vol › s-1 vol
-then vmx channel gain.
+lower at the source: p-6 level › t-8 vol › s-1 vol › j-6 level › e-4 vol
+then xone channel gain.
 never fix it at the master.
 
 -
@@ -106,13 +116,16 @@ a/e · b/f · c/g · d/h     1× / 2×
 t-8 start · pattern 1
 s-1 → freq + reso only
 p-6 → one sample now and then
+j-6 → one chord that holds
+e-4 → one sung phrase on top
 `F222one knob at a time.`f
 
 -
 
 >mantra
 don't move it to show. move it to listen.
-t-8 walks · p-6 remembers · s-1 breathes.
+t-8 walks · p-6 remembers · s-1 breathes
+j-6 harmonises · e-4 sings
 freq : quiet · signal : alive
 
 -

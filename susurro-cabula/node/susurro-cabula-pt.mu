@@ -1,17 +1,20 @@
 >>>☥ SUSURRO CABULA
 
 `F222on the go · roland aira compact
-t-8 + s-1 + p-6 · vmx300 · alesis
+t-8 + s-1 + p-6 + j-6 + e-4 · xone:92 · alto ts412
 freq : quiet · signal : alive`f
 
 -
 
->as três
+>as cinco
 t-8 = pulso    mestre do tempo · drums · bass
 s-1 = ar       synth · filtro · respiração
 p-6 = memória  samples curtos
+j-6 = acordes  harmonia · juno-60 · a alma de 82
+e-4 = voz      canto · auto-pitch · harmonia · vocoder
 
-`F222t-8 caminha. p-6 lembra. s-1 respira.`f
+`F222t-8 caminha. p-6 lembra. s-1 respira.
+j-6 harmoniza. e-4 canta.`f
 
 -
 
@@ -25,6 +28,7 @@ controlo = os botões de cada máquina (só mexem nela)
 >cabos
 preto trs (stereo)  = áudio → a voz
 colorido ts (mono)  = sync  → o passo
+xlr→1/4" (smp6bk)  = mic   → entra na e-4
 `F222nunca trocar.`f
 
 -
@@ -32,28 +36,32 @@ colorido ts (mono)  = sync  → o passo
 >cadeia de áudio · pretos trs
 p-6 mix out → t-8 mix in
 t-8 mix out → s-1 mix in
-s-1 mix out → (3.5→rca) → vmx300 line → alesis
+s-1 mix out → j-6 mix in
+j-6 mix out → e-4 mix in
+e-4 mix out → (3.5→rca) → xone:92 line → alto ts412
 
-`F222p-6 › t-8 › s-1 › mixer › phones`f
+`F222p-6 › t-8 › s-1 › j-6 › e-4 › xone › ts412`f
 
 -
 
 >cadeia de tempo · coloridos ts
 t-8 sync out → s-1 sync in
 s-1 sync out → p-6 sync in
+p-6 sync out → j-6 sync in
+j-6 sync out → e-4 sync in
 
-`F222t-8 manda. s-1 segue. p-6 segue.`f
+`F222t-8 manda. as quatro seguem.`f
 
 -
 
 >mesa
-t-8   s-1   p-6
+t-8   s-1   p-6   j-6   e-4
 
 -
 
 >antes de ligar
 tudo em volume baixo.
-vmx em line — nunca phono.
+xone:92 em line — nunca phono.
 subir só depois de ouvir.
 
 -
@@ -62,7 +70,9 @@ subir só depois de ouvir.
 1 · s-1 on → ouvir o som dela
 2 · t-8 start (pattern 1) → confirmar pulso
 3 · p-6 → 1 sample curto por cima
-4 · t-8 start → s-1/p-6 acompanham? sync ok.
+4 · j-6 → chord set → acorde por baixo
+5 · e-4 → voz ao mic → confirmar saída tratada
+6 · t-8 start → todas acompanham? sync ok.
 
 -
 
@@ -75,8 +85,8 @@ não filtram o áudio que entra por mix in.
 -
 
 >se distorce
-baixar na fonte: p-6 level › t-8 vol › s-1 vol
-depois vmx gain do canal.
+baixar na fonte: p-6 level › t-8 vol › s-1 vol › j-6 level › e-4 vol
+depois xone gain do canal.
 nunca corrigir no master.
 
 -
@@ -106,13 +116,16 @@ a/e · b/f · c/g · d/h     1× / 2×
 t-8 start · pattern 1
 s-1 → só freq + reso
 p-6 → 1 sample de vez em quando
+j-6 → 1 acorde que sustente
+e-4 → uma frase cantada por cima
 `F222um botão de cada vez.`f
 
 -
 
 >mantra
 não mexer para mostrar. mexer para escutar.
-t-8 caminha · p-6 lembra · s-1 respira.
+t-8 caminha · p-6 lembra · s-1 respira
+j-6 harmoniza · e-4 canta
 freq : quiet · signal : alive
 
 -
