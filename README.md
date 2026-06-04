@@ -88,9 +88,9 @@ Partilha e adapta com atribuição, mantendo a mesma licença.
 `₿uilt with love in cooperation with nature`
 
 ---
-
+VMX 300 / Alesis
 *anos de sussurros partilhados.*
 *elas nunca gritaram, nunca pediram atenção.*
-*só respondiam quando tu apareciais.*
+*só respondiam quando tu aparecias.*
 
 *raw and pure · signal alive · sempre.*
